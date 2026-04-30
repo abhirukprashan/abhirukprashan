@@ -1,3 +1,5 @@
 ## Abhirukprashan
 
-Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
+Just a guy on a mission to make my dev workflow smoother, build super performant apps, finally understand memory leaks, and create some actually cool software
+
+
